@@ -18,6 +18,10 @@
   align-self: center;
 }
 
+footer{
+  align-self: center;
+}
+
 .preview{
   height: auto;
   width: 90vw;
