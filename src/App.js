@@ -65,6 +65,7 @@ También hay [enlaces](https://www.freecodecamp.com)
         <Preview
           textIni={this.state.textIni}
         />
+         <footer className='p-3 mb-2 text-white'>>by Tatiana Ochoa 2020</footer>
       </section>
     );
   }
